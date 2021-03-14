@@ -1,0 +1,14 @@
+{
+  "Machine": ["192.168.35.120", "192.168.35.160", "192.168.35.90"],
+  "Users": {
+    "Danya" : "localhost",
+    "Egor"  : "PC00781",
+    "Ilay"  : "PC00782",
+    "Vitaly": "PC00783",
+    "Dima"  : "PC00784",
+    "Helen" : "PC00785",
+    "Sergey": "PC00786",
+    "Andrey": "PC00787",
+    "Roma"  : "PC00788"
+  }
+}
